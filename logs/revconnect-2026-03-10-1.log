@@ -1,0 +1,239 @@
+2026-03-10 12:19:32.660 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-10 12:19:32.708 [main] INFO  com.rev.app.P2RevConnectApplication - Starting P2RevConnectApplication using Java 18 with PID 24380 (E:\R2Develop\P2_Revconnect\target\classes started by manikanta in E:\R2Develop)
+2026-03-10 12:19:32.712 [main] DEBUG com.rev.app.P2RevConnectApplication - Running with Spring Boot v3.2.3, Spring v6.1.4
+2026-03-10 12:19:32.713 [main] INFO  com.rev.app.P2RevConnectApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-10 12:19:34.090 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2026-03-10 12:19:34.092 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-10 12:19:34.093 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-10 12:19:34.157 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-10 12:19:34.363 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-10 12:19:34.449 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-10 12:19:34.487 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-10 12:19:34.809 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-10 12:19:35.496 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@68d8ae27
+2026-03-10 12:19:35.497 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-10 12:19:36.926 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-10 12:19:38.431 [main] DEBUG com.rev.app.security.JwtRequestFilter - Filter 'jwtRequestFilter' configured for use
+2026-03-10 12:19:39.923 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2026-03-10 12:19:39.943 [main] INFO  com.rev.app.P2RevConnectApplication - Started P2RevConnectApplication in 7.599 seconds (process running for 8.86)
+2026-03-10 12:19:39.947 [main] INFO  com.rev.app.P2RevConnectApplication - RevConnect P2 Application Started Successfully!
+2026-03-10 12:24:47.485 [http-nio-8082-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-10 12:25:28.241 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-03-10 12:25:28.259 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-03-10 12:25:40.464 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-10 12:25:40.503 [main] INFO  com.rev.app.P2RevConnectApplication - Starting P2RevConnectApplication using Java 18 with PID 21452 (E:\R2Develop\P2_Revconnect\target\classes started by manikanta in E:\R2Develop)
+2026-03-10 12:25:40.505 [main] DEBUG com.rev.app.P2RevConnectApplication - Running with Spring Boot v3.2.3, Spring v6.1.4
+2026-03-10 12:25:40.506 [main] INFO  com.rev.app.P2RevConnectApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-10 12:25:41.787 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2026-03-10 12:25:41.789 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-10 12:25:41.789 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-10 12:25:41.839 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-10 12:25:42.010 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-10 12:25:42.059 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-10 12:25:42.084 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-10 12:25:42.296 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-10 12:25:42.562 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@73385d3f
+2026-03-10 12:25:42.564 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-10 12:25:43.810 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-10 12:25:44.931 [main] DEBUG com.rev.app.security.JwtRequestFilter - Filter 'jwtRequestFilter' configured for use
+2026-03-10 12:25:46.320 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2026-03-10 12:25:46.340 [main] INFO  com.rev.app.P2RevConnectApplication - Started P2RevConnectApplication in 6.256 seconds (process running for 7.396)
+2026-03-10 12:25:46.343 [main] INFO  com.rev.app.P2RevConnectApplication - RevConnect P2 Application Started Successfully!
+2026-03-10 12:25:52.587 [http-nio-8082-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-10 12:32:09.420 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-03-10 12:32:09.439 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-03-10 14:33:03.993 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-10 14:33:04.046 [main] INFO  com.rev.app.P2RevConnectApplication - Starting P2RevConnectApplication using Java 18 with PID 19104 (E:\R2Develop\P2_Revconnect\target\classes started by manikanta in E:\R2Develop)
+2026-03-10 14:33:04.050 [main] DEBUG com.rev.app.P2RevConnectApplication - Running with Spring Boot v3.2.3, Spring v6.1.4
+2026-03-10 14:33:04.051 [main] INFO  com.rev.app.P2RevConnectApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-10 14:33:05.301 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2026-03-10 14:33:05.303 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-10 14:33:05.303 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-10 14:33:05.349 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-10 14:33:05.530 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-10 14:33:05.606 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-10 14:33:05.648 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-10 14:33:05.935 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-10 14:33:06.273 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@131c0b6f
+2026-03-10 14:33:06.274 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-10 14:33:07.527 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-10 14:33:08.621 [main] DEBUG com.rev.app.security.JwtRequestFilter - Filter 'jwtRequestFilter' configured for use
+2026-03-10 14:33:09.910 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2026-03-10 14:33:09.929 [main] INFO  com.rev.app.P2RevConnectApplication - Started P2RevConnectApplication in 6.234 seconds (process running for 7.559)
+2026-03-10 14:33:09.933 [main] INFO  com.rev.app.P2RevConnectApplication - RevConnect P2 Application Started Successfully!
+2026-03-10 14:33:10.007 [http-nio-8082-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-10 14:41:28.464 [http-nio-8082-exec-5] INFO  com.rev.app.service.UserService - Registering new user: shreya_music
+2026-03-10 14:41:28.717 [http-nio-8082-exec-5] INFO  com.rev.app.service.UserService - User registered successfully with id: 27
+2026-03-10 14:41:28.749 [http-nio-8082-exec-5] INFO  com.rev.app.controller.AuthController - AuthController: Registration successful for user: shreya_music. Redirecting to login.
+2026-03-10 14:42:06.833 [http-nio-8082-exec-9] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: shreya_music
+2026-03-10 14:42:06.848 [http-nio-8082-exec-9] INFO  com.rev.app.config.CustomUserDetailsService - Security: User found: shreya_music. Role: CREATOR
+2026-03-10 14:42:07.227 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource favicon.ico.
+2026-03-10 14:45:04.120 [http-nio-8082-exec-2] INFO  com.rev.app.service.UserService - Updating profile for user id: 27
+2026-03-10 14:50:57.511 [http-nio-8082-exec-8] INFO  com.rev.app.service.UserService - Updating profile for user id: 27
+2026-03-10 14:54:00.443 [http-nio-8082-exec-6] INFO  com.rev.app.controller.FeedController - Controller: Received post request from user: shreya_music
+2026-03-10 14:54:00.443 [http-nio-8082-exec-6] INFO  com.rev.app.controller.FeedController - Controller: Content length: 84
+2026-03-10 14:54:00.443 [http-nio-8082-exec-6] INFO  com.rev.app.controller.FeedController - Controller: Image presence: true, Original Filename: Shreya_Ghoshal_performin.jpg
+2026-03-10 14:54:00.443 [http-nio-8082-exec-6] INFO  com.rev.app.service.PostService - Service: Creating post for user: shreya_music (Image attached: true)
+2026-03-10 14:54:00.447 [http-nio-8082-exec-6] INFO  com.rev.app.service.PostService - Service: Image saved successfully at: /uploads/post-images/d6437e9f-44f2-42bd-b252-3a29ef95a180_Shreya_Ghoshal_performin.jpg
+2026-03-10 14:54:53.653 [http-nio-8082-exec-7] INFO  com.rev.app.controller.FeedController - Controller: Received post request from user: shreya_music
+2026-03-10 14:54:53.653 [http-nio-8082-exec-7] INFO  com.rev.app.controller.FeedController - Controller: Content length: 182
+2026-03-10 14:54:53.653 [http-nio-8082-exec-7] INFO  com.rev.app.controller.FeedController - Controller: Image presence: true, Original Filename: 
+2026-03-10 14:54:53.653 [http-nio-8082-exec-7] INFO  com.rev.app.service.PostService - Service: Creating post for user: shreya_music (Image attached: false)
+2026-03-10 14:55:27.458 [http-nio-8082-exec-5] INFO  com.rev.app.controller.FeedController - Controller: Received post request from user: shreya_music
+2026-03-10 14:55:27.458 [http-nio-8082-exec-5] INFO  com.rev.app.controller.FeedController - Controller: Content length: 159
+2026-03-10 14:55:27.458 [http-nio-8082-exec-5] INFO  com.rev.app.controller.FeedController - Controller: Image presence: true, Original Filename: 
+2026-03-10 14:55:27.458 [http-nio-8082-exec-5] INFO  com.rev.app.service.PostService - Service: Creating post for user: shreya_music (Image attached: false)
+2026-03-10 14:55:44.771 [http-nio-8082-exec-6] DEBUG com.rev.app.service.UserService - Searching users with query: 
+2026-03-10 14:55:44.828 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ebca616-1e8e-4d2d-92d2-9c689842c8e5_IMG20260228135041.jpg.
+2026-03-10 14:55:44.833 [http-nio-8082-exec-3] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:55:44.833 [http-nio-8082-exec-8] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:55:44.834 [http-nio-8082-exec-7] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c86f76cd-941f-4edd-9c2c-9888b69d71f7_Screenshot%20(82).png.
+2026-03-10 14:55:52.950 [http-nio-8082-exec-5] DEBUG com.rev.app.service.UserService - Searching users with query: vir
+2026-03-10 14:55:52.982 [http-nio-8082-exec-8] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:55:55.714 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:55:55.715 [http-nio-8082-exec-2] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:55:55.715 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:56:01.048 [http-nio-8082-exec-3] DEBUG com.rev.app.service.NotificationService - Notification created: shreya_music -> virat18 type=CONNECTION_REQUEST
+2026-03-10 14:56:01.048 [http-nio-8082-exec-3] INFO  com.rev.app.service.ConnectionService - Connection request sent: shreya_music -> virat18
+2026-03-10 14:56:01.121 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:01.121 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:56:01.121 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:56:03.035 [http-nio-8082-exec-2] DEBUG com.rev.app.service.NotificationService - Notification created: shreya_music -> virat18 type=NEW_FOLLOWER
+2026-03-10 14:56:03.035 [http-nio-8082-exec-2] INFO  com.rev.app.service.FollowService - shreya_music followed virat18
+2026-03-10 14:56:03.110 [http-nio-8082-exec-4] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:56:03.110 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:56:03.110 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:13.844 [http-nio-8082-exec-4] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:56:13.844 [http-nio-8082-exec-3] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:13.853 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:56:13.863 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:38.954 [http-nio-8082-exec-7] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: virat18
+2026-03-10 14:56:38.956 [http-nio-8082-exec-7] INFO  com.rev.app.config.CustomUserDetailsService - Security: User found: virat18. Role: PERSONAL
+2026-03-10 14:56:39.110 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:39.110 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:56:39.121 [http-nio-8082-exec-8] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:39.121 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:56:41.734 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:43.484 [http-nio-8082-exec-8] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:45.928 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:56:45.929 [http-nio-8082-exec-7] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:48.236 [http-nio-8082-exec-9] DEBUG com.rev.app.service.NotificationService - Notification created: virat18 -> rahul type=CONNECTION_ACCEPTED
+2026-03-10 14:56:48.236 [http-nio-8082-exec-9] INFO  com.rev.app.service.ConnectionService - Connection accepted: rahul <-> virat18
+2026-03-10 14:56:48.291 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:56:48.291 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:49.526 [http-nio-8082-exec-3] DEBUG com.rev.app.service.NotificationService - Notification created: virat18 -> shreya_music type=CONNECTION_ACCEPTED
+2026-03-10 14:56:49.527 [http-nio-8082-exec-3] INFO  com.rev.app.service.ConnectionService - Connection accepted: shreya_music <-> virat18
+2026-03-10 14:56:49.578 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:56:49.578 [http-nio-8082-exec-9] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:52.350 [http-nio-8082-exec-4] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:56:52.350 [http-nio-8082-exec-3] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:57:03.890 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:57:03.890 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:57:03.890 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:57:12.608 [http-nio-8082-exec-3] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:57:12.608 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:57:15.264 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:57:17.764 [http-nio-8082-exec-3] DEBUG com.rev.app.service.NotificationService - Notification created: virat18 -> shreya_music type=NEW_FOLLOWER
+2026-03-10 14:57:17.764 [http-nio-8082-exec-3] INFO  com.rev.app.service.FollowService - virat18 followed shreya_music
+2026-03-10 14:57:17.831 [http-nio-8082-exec-9] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:57:26.979 [http-nio-8082-exec-2] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:57:26.984 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:57:26.984 [http-nio-8082-exec-9] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:57:26.987 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:57:26.996 [http-nio-8082-exec-2] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:57:26.996 [http-nio-8082-exec-3] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 14:57:37.513 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 14:57:37.513 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 14:57:37.518 [http-nio-8082-exec-8] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 14:57:37.679 [http-nio-8082-exec-2] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 15:00:52.839 [http-nio-8082-exec-4] INFO  com.rev.app.service.UserService - Registering new user: adidas_official
+2026-03-10 15:00:53.003 [http-nio-8082-exec-4] INFO  com.rev.app.service.UserService - User registered successfully with id: 28
+2026-03-10 15:00:53.005 [http-nio-8082-exec-4] INFO  com.rev.app.controller.AuthController - AuthController: Registration successful for user: adidas_official. Redirecting to login.
+2026-03-10 15:01:19.857 [http-nio-8082-exec-6] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: addidas_official
+2026-03-10 15:01:19.859 [http-nio-8082-exec-6] WARN  com.rev.app.config.CustomUserDetailsService - Security: User NOT FOUND in database: addidas_official
+2026-03-10 15:01:19.948 [http-nio-8082-exec-6] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: addidas_official
+2026-03-10 15:01:19.950 [http-nio-8082-exec-6] WARN  com.rev.app.config.CustomUserDetailsService - Security: User NOT FOUND in database: addidas_official
+2026-03-10 15:01:37.069 [http-nio-8082-exec-8] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: addidas_official
+2026-03-10 15:01:37.070 [http-nio-8082-exec-8] WARN  com.rev.app.config.CustomUserDetailsService - Security: User NOT FOUND in database: addidas_official
+2026-03-10 15:01:37.157 [http-nio-8082-exec-8] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: addidas_official
+2026-03-10 15:01:37.159 [http-nio-8082-exec-8] WARN  com.rev.app.config.CustomUserDetailsService - Security: User NOT FOUND in database: addidas_official
+2026-03-10 15:02:39.470 [http-nio-8082-exec-9] INFO  com.rev.app.service.UserService - Attempting password reset for: contact@adidas.com
+2026-03-10 15:02:39.556 [http-nio-8082-exec-9] WARN  com.rev.app.controller.AuthController - AuthController: Password reset failed: Passwords do not match.
+2026-03-10 15:03:04.624 [http-nio-8082-exec-2] INFO  com.rev.app.service.UserService - Attempting password reset for: contact@adidas.com
+2026-03-10 15:03:04.790 [http-nio-8082-exec-2] INFO  com.rev.app.service.UserService - Password reset successful for user: adidas_official
+2026-03-10 15:03:04.793 [http-nio-8082-exec-2] INFO  com.rev.app.controller.AuthController - AuthController: Password reset successful for: contact@adidas.com
+2026-03-10 15:03:28.163 [http-nio-8082-exec-5] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: adidas_official
+2026-03-10 15:03:28.166 [http-nio-8082-exec-5] INFO  com.rev.app.config.CustomUserDetailsService - Security: User found: adidas_official. Role: BUSINESS
+2026-03-10 15:09:13.112 [http-nio-8082-exec-10] INFO  com.rev.app.service.UserService - Updating profile for user id: 28
+2026-03-10 15:14:12.409 [http-nio-8082-exec-9] INFO  com.rev.app.controller.FeedController - Controller: Received post request from user: adidas_official
+2026-03-10 15:14:12.409 [http-nio-8082-exec-9] INFO  com.rev.app.controller.FeedController - Controller: Content length: 157
+2026-03-10 15:14:12.409 [http-nio-8082-exec-9] INFO  com.rev.app.controller.FeedController - Controller: Image presence: true, Original Filename: 
+2026-03-10 15:14:12.409 [http-nio-8082-exec-9] INFO  com.rev.app.service.PostService - Service: Creating post for user: adidas_official (Image attached: false)
+2026-03-10 15:14:37.785 [http-nio-8082-exec-5] INFO  com.rev.app.controller.FeedController - Controller: Received post request from user: adidas_official
+2026-03-10 15:14:37.786 [http-nio-8082-exec-5] INFO  com.rev.app.controller.FeedController - Controller: Content length: 147
+2026-03-10 15:14:37.786 [http-nio-8082-exec-5] INFO  com.rev.app.controller.FeedController - Controller: Image presence: true, Original Filename: 
+2026-03-10 15:14:37.786 [http-nio-8082-exec-5] INFO  com.rev.app.service.PostService - Service: Creating post for user: adidas_official (Image attached: false)
+2026-03-10 15:16:58.157 [http-nio-8082-exec-7] INFO  com.rev.app.controller.FeedController - Controller: Received post request from user: adidas_official
+2026-03-10 15:16:58.157 [http-nio-8082-exec-7] INFO  com.rev.app.controller.FeedController - Controller: Content length: 234
+2026-03-10 15:16:58.157 [http-nio-8082-exec-7] INFO  com.rev.app.controller.FeedController - Controller: Image presence: true, Original Filename: 
+2026-03-10 15:16:58.157 [http-nio-8082-exec-7] INFO  com.rev.app.service.PostService - Service: Creating post for user: adidas_official (Image attached: false)
+2026-03-10 15:17:24.366 [http-nio-8082-exec-2] DEBUG com.rev.app.service.UserService - Searching users with query: 
+2026-03-10 15:17:24.408 [http-nio-8082-exec-7] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 15:17:24.409 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c86f76cd-941f-4edd-9c2c-9888b69d71f7_Screenshot%20(82).png.
+2026-03-10 15:17:24.409 [http-nio-8082-exec-4] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ebca616-1e8e-4d2d-92d2-9c689842c8e5_IMG20260228135041.jpg.
+2026-03-10 15:17:24.411 [http-nio-8082-exec-8] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 15:17:41.622 [http-nio-8082-exec-4] DEBUG com.rev.app.service.NotificationService - Notification created: adidas_official -> shreya_music type=CONNECTION_REQUEST
+2026-03-10 15:17:41.622 [http-nio-8082-exec-4] INFO  com.rev.app.service.ConnectionService - Connection request sent: adidas_official -> shreya_music
+2026-03-10 15:17:43.549 [http-nio-8082-exec-5] DEBUG com.rev.app.service.NotificationService - Notification created: adidas_official -> shreya_music type=NEW_FOLLOWER
+2026-03-10 15:17:43.549 [http-nio-8082-exec-5] INFO  com.rev.app.service.FollowService - adidas_official followed shreya_music
+2026-03-10 15:17:51.167 [http-nio-8082-exec-6] DEBUG com.rev.app.service.UserService - Searching users with query: 
+2026-03-10 15:17:51.215 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 15:17:51.215 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c86f76cd-941f-4edd-9c2c-9888b69d71f7_Screenshot%20(82).png.
+2026-03-10 15:17:51.215 [http-nio-8082-exec-3] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ebca616-1e8e-4d2d-92d2-9c689842c8e5_IMG20260228135041.jpg.
+2026-03-10 15:17:51.217 [http-nio-8082-exec-1] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource b45bf3fc-6dfc-4c5e-9ce3-619f6ed4da8e_travvler.jpg.
+2026-03-10 15:18:06.974 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 15:18:06.979 [http-nio-8082-exec-3] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 15:18:06.979 [http-nio-8082-exec-9] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 15:18:08.654 [http-nio-8082-exec-1] DEBUG com.rev.app.service.NotificationService - Notification created: adidas_official -> virat18 type=CONNECTION_REQUEST
+2026-03-10 15:18:08.655 [http-nio-8082-exec-1] INFO  com.rev.app.service.ConnectionService - Connection request sent: adidas_official -> virat18
+2026-03-10 15:18:08.713 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 15:18:08.718 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 15:18:08.718 [http-nio-8082-exec-10] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 15:18:10.047 [http-nio-8082-exec-3] DEBUG com.rev.app.service.NotificationService - Notification created: adidas_official -> virat18 type=NEW_FOLLOWER
+2026-03-10 15:18:10.047 [http-nio-8082-exec-3] INFO  com.rev.app.service.FollowService - adidas_official followed virat18
+2026-03-10 15:18:10.110 [http-nio-8082-exec-8] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 15:18:10.110 [http-nio-8082-exec-7] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 15:18:10.110 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 15:18:20.814 [http-nio-8082-exec-4] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 8985ccf9-22e4-4b01-8cdb-55b0e53bdfaa_virat_prof.jpg.
+2026-03-10 15:18:20.815 [http-nio-8082-exec-7] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ee386a9-e864-4170-8d12-12a80b647890_celebration.webp.
+2026-03-10 15:18:20.815 [http-nio-8082-exec-5] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c312c2b3-acec-4a78-95f4-e75e3091f0ef_virat-tes.avif.
+2026-03-10 15:18:28.330 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-03-10 15:18:28.341 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-03-10 19:11:15.247 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2026-03-10 19:11:15.286 [main] INFO  com.rev.app.P2RevConnectApplication - Starting P2RevConnectApplication using Java 18 with PID 11608 (E:\R2Develop\P2_Revconnect\target\classes started by manikanta in E:\R2Develop)
+2026-03-10 19:11:15.290 [main] DEBUG com.rev.app.P2RevConnectApplication - Running with Spring Boot v3.2.3, Spring v6.1.4
+2026-03-10 19:11:15.291 [main] INFO  com.rev.app.P2RevConnectApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-10 19:11:16.855 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8082"]
+2026-03-10 19:11:16.857 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-10 19:11:16.857 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2026-03-10 19:11:16.916 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-10 19:11:17.138 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-03-10 19:11:17.226 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2026-03-10 19:11:17.268 [main] INFO  org.hibernate.cache.internal.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2026-03-10 19:11:17.595 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-03-10 19:11:18.055 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection oracle.jdbc.driver.T4CConnection@49e62b17
+2026-03-10 19:11:18.056 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-03-10 19:11:19.508 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-03-10 19:11:22.513 [main] DEBUG com.rev.app.security.JwtRequestFilter - Filter 'jwtRequestFilter' configured for use
+2026-03-10 19:11:23.793 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8082"]
+2026-03-10 19:11:23.814 [main] INFO  com.rev.app.P2RevConnectApplication - Started P2RevConnectApplication in 8.88 seconds (process running for 10.191)
+2026-03-10 19:11:23.816 [main] INFO  com.rev.app.P2RevConnectApplication - RevConnect P2 Application Started Successfully!
+2026-03-10 19:11:50.011 [http-nio-8082-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-10 19:12:10.739 [http-nio-8082-exec-2] INFO  com.rev.app.config.CustomUserDetailsService - Security: Attempting to load user by identifier: virat18
+2026-03-10 19:12:10.793 [http-nio-8082-exec-2] INFO  com.rev.app.config.CustomUserDetailsService - Security: User found: virat18. Role: PERSONAL
+2026-03-10 19:12:11.545 [http-nio-8082-exec-4] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource favicon.ico.
+2026-03-10 19:12:33.093 [http-nio-8082-exec-4] DEBUG com.rev.app.service.UserService - Searching users with query: 
+2026-03-10 19:12:33.195 [http-nio-8082-exec-7] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource 5ebca616-1e8e-4d2d-92d2-9c689842c8e5_IMG20260228135041.jpg.
+2026-03-10 19:12:33.202 [http-nio-8082-exec-6] DEBUG com.rev.app.exception.GlobalExceptionHandler - Static resource not found: No static resource c86f76cd-941f-4edd-9c2c-9888b69d71f7_Screenshot%20(82).png.
+2026-03-10 19:14:04.612 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-03-10 19:14:04.625 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
